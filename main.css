@@ -1,0 +1,18 @@
+/* 2.1 Target an element and change its color */
+
+header {
+    background-color: #e7b6da;
+    font-family: "Arial", sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+
+/* 2.2 Pick a heading and change font size, make it bold and underline */
+
+h2 {
+    font-size: 23px;
+    font-weight: bold;
+    text-decoration: underline;
+}
